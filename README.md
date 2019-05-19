@@ -12,4 +12,4 @@
 ```
 "Salzburg": "Kirche der S. T. Adventisten,AT25 3219 5034 0008 3592"
 ```
-Hint: Churches are seperated by comma, after the last one there is none.
+Hint: Church entries are seperated by comma, after the last one there is none.
